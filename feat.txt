@@ -1,0 +1,10 @@
+from,to,weight
+LadyGaga,Beyonce,1
+Shakira,Rihanna,1
+LadyGaga,ArianaGrande,1
+TheWeeknd,ArianaGrande,1
+TheWeeknd,Anitta,1
+LadyGaga,BrunoMars,1
+Coldplay,Rihanna,1
+Coldplay,Beyonce,1
+TheWeeknd,DaftPunk,1
